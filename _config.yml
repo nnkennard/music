@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Andrew's music
+tagline:          'Lyrics for you to sing along'
+description:      'Lyrics for you to sing along'
+url:              http://nnkennard.github.io/music
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Neha Kennard'
+  url:            https://twitter.com/nnkennard
 
 
 # Custom vars
@@ -23,3 +23,9 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+collections:
+  formatted_songs:
+    output: true
+  songs:
+    output: false
