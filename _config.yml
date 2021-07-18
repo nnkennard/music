@@ -28,3 +28,7 @@ collections:
     output: true
   songs:
     output: false
+
+exclude:
+  - node_modules
+  - ve

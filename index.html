@@ -4,33 +4,31 @@ title: Home
 ---
 
 Let the person next to you scan the QR code below to get to this site on their phone!
-  <img src="assets/qr-codes/Home.png"
-     alt="QR code for Andrew's music site" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
+<img src="assets/qr-codes/Home.png"
+     alt="QR code for Andrew's music site"
+     style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
 
 
 Here are the songs Andrew can play for you:
 <br><br>
 
 <table id="example" class=""  style="width:100%">
-        <thead>
+    <thead>
             <tr>
-                <th>Title</th>
-                <th>Artist</th>
-                <th>Category</th>
-            </tr>
-        </thead>
-        <tbody>
-
-
-{% for song in site.songs %}
-	<tr>
-		<td> <a href=" {{ song.permalink }}/"> {{ song.title }} </a> </td>
-		<td> {{ song.artist }} </td>
-		<td> {{ song.category }} </td>
-		
-	</tr>
-{% endfor %}
-</tbody>
+            <th>Title</th>
+            <th>Artist</th>
+            <th>Category</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% for song in site.formatted_songs %}
+        <tr>
+            <td> <a href=" {{ song.permalink }}/"> {{ song.title }} </a> </td>
+            <td> {{ song.artist }} </td>
+            <td> {{ song.category }} </td>
+        </tr>
+    {% endfor %}
+    </tbody>
 </table>
 
 <script>
