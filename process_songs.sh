@@ -1,3 +1,5 @@
+source ve/bin/activate
+
 mkdir -p assets/qr-codes
 mkdir -p _formatted_songs
 
