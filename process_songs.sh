@@ -1,10 +1,10 @@
 source ve/bin/activate
 
-mkdir -p assets/qr-codes
-mkdir -p _formatted_songs
-
 git rm assets/qr-codes/*
 git rm _formatted_songs/*
+
+mkdir -p assets/qr-codes
+mkdir -p _formatted_songs
 
 python reformat_song_pages.py
 
