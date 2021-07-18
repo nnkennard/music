@@ -4,7 +4,11 @@ layout: page
 
 <div class="page">
   Let the person next to you scan the QR code below to get these lyrics on their phone!
-  <img src="/assets/qr-codes/{{ page.permalink }}.png"
+
+
+{% assign url = "assets/qr-codes/" | append: page.permalink | append: ".png" %}
+	{{ url }}
+  <img src="assets/qr-codes/{{ page.permalink }}.png"
      alt="QR code for {{ page.title }}" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
   <h1 class="page-title">{{ page.title }}</h1>
   <i> {{ page.artist }} </i>
