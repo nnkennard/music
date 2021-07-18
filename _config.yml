@@ -9,7 +9,7 @@ relative_permalinks: false
 title:            Andrew's music
 tagline:          'Lyrics for you to sing along'
 description:      'Lyrics for you to sing along'
-url:              http://nnkennard.github.io/music
+url:              http://nnkennard.github.io/music/
 baseurl:          /
 
 author:
