@@ -2,7 +2,7 @@
 artist: Adele
 category: pop
 layout: song
-permalink: hello
+permalink: hello/
 title: Hello
 ---
 
