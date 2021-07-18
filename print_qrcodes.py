@@ -14,8 +14,8 @@ HTML_TEMPLATE = """
 <br>
 <div class ='container'>
 <div class='row'>
-<div class='col-md-6 offset-md-3'>
-<table class="table" style='width:60%'>
+<div class='col-4 mx-auto'>
+<table class="table" >
 {0}
 </table>
 </div>
@@ -35,6 +35,7 @@ def table_builder(rows):
     table_builder += TEXT_CELL.format(title, artist)
     table_builder += IMAGE_CELL.format(permalink)
     table_builder += "</tr>\n"
+    table_builder += "<tr><td colspan=2><br/></td></tr>\n"
 
   return HTML_TEMPLATE.format(table_builder)
 
