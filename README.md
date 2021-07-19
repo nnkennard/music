@@ -34,3 +34,15 @@ Hickory, dickory, dock.
 Notes:
 * The filename can be anything, as long as it ends in `.md`. You should probably name it something identifiable, though.
 * Please ensure that the category is a single word with no spaces. For now, the tool can only handle a single category for each song.
+
+
+# Printing the QR codes
+
+To print the QR codes, run the following:
+
+```
+source ve/bin/activate
+python print_qrcodes.py
+```
+
+This creates a file called `printme.html`. You can open this file in a browser and print.
