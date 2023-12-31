@@ -1,6 +1,8 @@
 ---
 artist: Adele
 category: pop
+first_note: X
+key: J
 layout: song
 permalink: hello
 title: Hello

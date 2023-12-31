@@ -2,6 +2,8 @@
 title: Hello
 artist: Adele
 category: pop
+first_note: X
+key: J
 ---
 
 [Verse 1]
