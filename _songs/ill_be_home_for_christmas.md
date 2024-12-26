@@ -1,0 +1,17 @@
+---
+title: I'll be Home for Christmas 
+artist: 
+category: donna
+key: 
+first-note: 
+---
+
+
+I'll be home for Christmas,
+You can count on me.
+Please have snow and mistletoe
+And presents on the tree.
+Christmas Eve will find me
+Where the love light gleams
+I'll be home for Christmas
+If only in my dreams.
