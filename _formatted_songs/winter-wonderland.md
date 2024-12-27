@@ -1,56 +1,44 @@
 ---
-artist: Bing Crosby
-category: xmas
+artist: null
+category: donna2
+first-note: null
+key: null
 layout: song
 permalink: winter-wonderland
 title: Winter Wonderland
 ---
 
-Sleigh bells ring<br>
-Are you listenin'?<br>
-In the lane<br>
-Snow is glistenin'<br>
-A beautiful sight<br>
-We're happy tonight<br>
-Walkin' in a winter wonderland<br>
+Sleighbells ring, are you listenin'?<br>
+In the lane, snow is glist'nin,<br>
+A beautiful sight, we're happy tonight,<br>
+Walkin' in a winter wonderland.<br>
+Gone away is the bluebird,<br>
+Here to stay is a new bird,<br>
+He sings a love song, as we go along,<br>
+Walkin' in a winter wonderland.<br>
 <br>
-Gone away is the bluebird<br>
-Here to stay is a new bird<br>
-He sings a love song<br>
-As we go along<br>
-Walkin' in a winter wonderland<br>
+In the meadow we can build a snowman,<br>
+Then pretend that he is Parson Brown;<br>
+He'll say are you married?, We'll say No, Man!<br>
+But, you can do the job when you're in town!<br>
+Later on, we'll conspire, as we dream by the fire,<br>
+To face unafraid, the plans that we made,<br>
+Walkin' in a winter wonderland.<br>
 <br>
-In the meadow we can build a snowman<br>
-Then pretend that he is Parson Brown<br>
-He'll say: Are you married?<br>
-We'll say: "No man<br>
-But you can do the job when you're in town"<br>
+Sleighbells ring, are you listenin'?<br>
+In the lane, snow is glist'nin,<br>
+A beautiful sight, we're happy tonight,<br>
+Walkin' in a winter wonderland.<br>
+Gone away is the bluebird,<br>
+Here to stay is a new bird,<br>
+He sings a love song, as we go along,<br>
+Walkin' in a winter wonderland.<br>
 <br>
-Later on<br>
-We'll conspire<br>
-As we dream by the fire<br>
-To face unafraid<br>
-The plans that we've made<br>
-Walkin' in a winter wonderland<br>
-<br>
-, Are ya listenin'?<br>
-(In the lane), Snow is glissin'<br>
-A beautiful sight, we're happy tonight<br>
-Walkin' in the winter wonderland<br>
-<br>
-Here to stay is a new bird<br>
-He sings a love song<br>
-As we go along<br>
-Walkin' in a winter wonderland<br>
-<br>
-In the meadow we can build a snowman<br>
-And pretend that he's a circus clown<br>
-(We'll have lots of fun with Mr. Snowman)<br>
-Yes, until the other kidies knock him down<br>
-<br>
-Later on, we'll conspire<br>
-As we dream by the fire<br>
-To face unafraid<br>
-The plans that we've made<br>
-Walkin' in a winter wonderland<br>
-Walkin' in a winter wonderland
+In the meadow we can build a snowman,<br>
+And pretend that he's a circus clown;<br>
+We'll have lots of fun with Mister Snowman,<br>
+Until the other kiddies knock 'im down!<br>
+When it snows, ain't it thrillin',<br>
+Tho' your nose gets a chillin'?<br>
+We'll frolic and play, the Eskimo way,<br>
+Walkin' in a winter wonderland.

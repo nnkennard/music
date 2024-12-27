@@ -1,0 +1,26 @@
+---
+title: Let it Snow! Let it Snow! Let it Snow!
+artist: 
+category: donna2
+key: 
+first-note: 
+---
+
+Oh the weather outside is frightful
+But the fire is so delightful.
+And since we've no place to go,
+Let It Snow! Let It Snow! Let It Snow!
+
+It doesn't show signs of stopping,
+And I brought some corn for popping.
+The lights are tumed way down low,
+Let It Snow! Let It Snow! Let It Snow!
+
+When we finally kiss goodnight,
+How I'll hate going out in the storm!
+But if you'll really hold me tight,
+All the way home l'll be warm!
+The fire is slowly dying,
+And my dear, we're still good-byeing.
+But as long as you love me so,
+Let It Snow! Let It Snow! Let It Snow!
