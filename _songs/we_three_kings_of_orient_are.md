@@ -1,7 +1,7 @@
 ---
 title: We Three Kings of Orient Are
 artist: 
-category: donna
+category: xmas
 key: 
 first-note: 
 ---

@@ -1,7 +1,7 @@
 ---
 title: O Come, All Ye Faithful
 artist: 
-category: donna
+category: xmas
 key: 
 first-note: 
 ---

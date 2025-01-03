@@ -1,7 +1,7 @@
 ---
 title: O Come, O Come, Emmanual
 artist: 
-category: donna
+category: xmas
 key: 
 first-note: 
 ---

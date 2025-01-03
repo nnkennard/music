@@ -1,7 +1,7 @@
 ---
 title: Good King Wenceslas
 artist: 
-category: donna
+category: xmas
 key: 
 first-note: 
 ---

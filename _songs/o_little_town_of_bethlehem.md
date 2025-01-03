@@ -1,7 +1,7 @@
 ---
 title: O Little Town of Bethlehem
 artist: 
-category: donna
+category: xmas
 key: 
 first-note: 
 ---

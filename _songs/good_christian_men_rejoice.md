@@ -1,7 +1,7 @@
 ---
 title: Good Christian Men, rejoice
 artist: 
-category: donna
+category: xmas
 key: 
 first-note: 
 ---
