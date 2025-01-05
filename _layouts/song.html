@@ -19,5 +19,9 @@ layout: page
   <br />
   {{ content }}
 
+  {% if page.category == "xmas" %}
+  <a href="{{ 'xmas.html' | relative_url }}">Return to Christmas song index</a>
+  {% endif %}
+
   <a href="{{ 'index.html' | relative_url }}">Return to song index</a>
 </div>
