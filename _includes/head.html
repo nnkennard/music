@@ -19,6 +19,16 @@
     {% endif %}
   </title>
 
+
+  {% if page.category == "xmas" %}
+  <style>
+  p {
+   font-size: 30px;
+   color: red;
+  }
+  </style>
+  {% endif %}
+
   <!-- CSS -->
   <link rel="stylesheet" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css">
   <link rel="stylesheet" href="{{ 'public/css/poole.css' | relative_url }}">
